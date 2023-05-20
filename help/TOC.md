@@ -6,12 +6,12 @@ solution: Advertising
 source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
 
-# Tutorial su Adobe Advertising  {#tutorials}
+# Tutorial su Adobe Advertising {#tutorials}
 
 + [Panoramica](overview.md)
 + DSP {#dsp}
