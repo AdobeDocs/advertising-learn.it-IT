@@ -2,8 +2,9 @@
 user-guide-title: Tutorial su Adobe Advertising
 user-guide-description: Una raccolta di video e tutorial su Adobe Advertising.
 breadcrumb-title: Tutorial su Advertising
-solution: Advertising
-source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
+role: User
+level: Beginner, Intermediate
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -23,11 +24,11 @@ ht-degree: 16%
    + [Come caricare in blocco tag di annunci di terze parti](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [Introduzione a [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Creare rapporti sulle visite al sito per annunci Adobe](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Creare rapporti sulle visite al sito di Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Crea [!DNL Analytics] Segmenti per attivazione e reporting](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [Introduzione a [!DNL Analysis Workspace] per il reporting Adobe Dati pubblicitari](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [Utilizzo di [!DNL Marketing Channels] ad Adobe Advertising Reporting](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Crea [!DNL Analytics] Profili come ad Adobe Attivazione pubblicitaria e reporting](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Crea [!DNL Analytics] Profili per attivazione e reporting di Adobi Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Creare un’analisi pre-lancio delle campagne con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Creare dashboard di Adobe Advertising con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Crea [!DNL Analytics] Metriche personalizzate con i dati pubblicitari Adobe](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)

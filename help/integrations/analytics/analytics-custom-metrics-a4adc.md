@@ -1,18 +1,21 @@
 ---
-title: Crea [!DNL Analytics] Metriche personalizzate con i dati pubblicitari Adobe
-description: Scopri utili metriche personalizzate da creare quando utilizzi i dati di Adobe Advertising in Adobe Analytics.
+title: Crea [!DNL Analytics] Metriche personalizzate con dati Adobe Advertising
+description: Scopri utili metriche personalizzate da creare quando utilizzi dati di Adobi Advertising in Adobe Analytics.
+level: Intermediate, Experienced
+topic: Integrations
+feature: Integration with Adobe Analytics
 exl-id: 56077529-443d-4285-9238-13b07b26ad08
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# Crea [!DNL Analytics] Metriche personalizzate con i dati pubblicitari Adobe
+# Crea [!DNL Analytics] Metriche personalizzate con dati Adobe Advertising
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Scopri utili metriche personalizzate da creare quando utilizzi i dati di Adobe Advertising in Adobe Analytics.
+Scopri utili metriche personalizzate da creare quando utilizzi dati di Adobi Advertising in Adobe Analytics.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)
