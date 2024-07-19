@@ -5,8 +5,8 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# Adobe Pubblicità Tutorials DSP
+# Tutorials Adobe Advertising DSP
 
 Questa è la cartella delle pagine video sull’DSP.
 
-**Nota: questa pagina non è pubblicata nella documentazione destinata al cliente.**
+**Nota: questa pagina non è pubblicata nella documentazione del cliente.**

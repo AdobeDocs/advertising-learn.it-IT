@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Scopri le tecniche per la creazione di un dashboard di Advertising Adobe per il monitoraggio delle campagne live.
+Scopri le tecniche per la creazione di un dashboard di Adobe Advertising per il monitoraggio delle campagne live.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33922)

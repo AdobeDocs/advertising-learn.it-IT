@@ -1,5 +1,5 @@
 ---
-title: Crea [!DNL Analytics] Segmenti per attivazione e reporting
+title: Crea [!DNL Analytics] segmenti per attivazione e reporting
 description: Scopri come utilizzare le dimensioni Adobe Advertising per creare segmenti per reporting e analisi più nitidi.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Crea [!DNL Analytics] Segmenti per attivazione e reporting
+# Crea [!DNL Analytics] segmenti per attivazione e reporting
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 

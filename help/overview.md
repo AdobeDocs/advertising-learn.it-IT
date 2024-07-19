@@ -14,13 +14,13 @@ ht-degree: 25%
 
 # Tutorial su Adobe Advertising
 
-Queste esercitazioni video, insieme a [Documentazione di Adobi Advertising](https://experienceleague.adobe.com/docs/advertising-cloud.html), ti aiuterà a utilizzare Adobi Advertising per ottenere approfondimenti sul cliente in modo più rapido che mai.
+Queste esercitazioni video, insieme alla [documentazione di Adobe Advertising](https://experienceleague.adobe.com/docs/advertising-cloud.html), ti aiuteranno a utilizzare Adobe Advertising per acquisire approfondimenti sul cliente in modo più rapido che mai.
 
 Sono disponibili video su:
 
 * Advertising DSP
 
-* Advertising DSP e le integrazioni Advertising Search con altri prodotti e servizi Adobe Experience Cloud
+* Integrazioni di Advertising DSP e Advertising Search con altri prodotti e servizi Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content

@@ -1,6 +1,6 @@
 ---
 title: Introduzione a [!DNL Analysis Workspace] per i dati dell'Adobe Advertising di reporting
-description: Scopri come utilizzare i dati di Advertising degli Adobi per creare rapporti visivi in Adobe Analytics [!DNL Analysis Workspace].
+description: Scopri come utilizzare i dati di Adobe Advertising per creare report visivi in Adobe Analytics [!DNL Analysis Workspace].
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# Introduzione a [!DNL Analysis Workspace] per il reporting Adobe Dati pubblicitari
+# Introduzione a [!DNL Analysis Workspace] per i dati dell&#39;Adobe Advertising di reporting
 
-Scopri come utilizzare i dati di Advertising degli Adobi per creare rapporti visivi in Adobe Analytics [!DNL Analysis Workspace].
+Scopri come utilizzare i dati di Adobe Advertising per creare report visivi in Adobe Analytics [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/33492)

@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Generazione di rapporti con i canali marketing Adobe Advertising
+# Generazione di rapporti con i canali di marketing Adobe Advertising
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 

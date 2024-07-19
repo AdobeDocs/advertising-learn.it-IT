@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Creare rapporti sulle visite al sito per annunci Adobe
+# Creare rapporti sulle visite al sito di Adobe Advertising
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 

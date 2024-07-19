@@ -1,6 +1,6 @@
 ---
 title: Creare un’analisi pre-lancio delle campagne con Adobe Analytics
-description: Scopri come utilizzare Adobe Analytics per impostare le basi del lancio di una campagna multimediale a pagamento per la pubblicità di Adobi.
+description: Scopri come utilizzare Adobe Analytics per impostare le basi del lancio di una campagna multimediale a pagamento di Adobe Advertising.
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 
-Scopri come utilizzare Adobe Analytics per impostare le basi del lancio di una campagna multimediale a pagamento per la pubblicità di Adobi.
+Scopri come utilizzare Adobe Analytics per impostare le basi del lancio di una campagna multimediale a pagamento di Adobe Advertising.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

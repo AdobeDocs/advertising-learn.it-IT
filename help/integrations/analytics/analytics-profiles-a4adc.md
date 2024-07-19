@@ -1,5 +1,5 @@
 ---
-title: Crea [!DNL Analytics] Profili per attivazione e reporting di Adobi Advertising
+title: Crea [!DNL Analytics] profili per attivazione e reporting Adobi Advertising
 description: Scopri come utilizzare Adobe Analytics per creare solidi pool di retargeting dei siti, ad Adobe Advertising per il remarketing.
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# Crea [!DNL Analytics] Profili per attivazione e reporting di Adobi Advertising
+# Crea [!DNL Analytics] profili per attivazione e reporting Adobi Advertising
 
 *Inserzionisti con[!DNL Adobe Analytics for Adobe Advertising]*
 
