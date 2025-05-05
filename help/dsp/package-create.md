@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scopri come creare un pacchetto per una campagna DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/339257)
+>[!VIDEO](https://video.tv.adobe.com/v/3412428?captions=ita)

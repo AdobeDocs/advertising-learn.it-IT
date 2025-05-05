@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scopri come sono strutturati i tuoi account degli annunci DSP, come utilizzare le visualizzazioni di gestione delle campagne e le descrizioni delle funzioni di gestione dell’audience, inventario, reporting, impostazioni e risorse.
 
->[!VIDEO](https://video.tv.adobe.com/v/339206)
+>[!VIDEO](https://video.tv.adobe.com/v/3412416?captions=ita)

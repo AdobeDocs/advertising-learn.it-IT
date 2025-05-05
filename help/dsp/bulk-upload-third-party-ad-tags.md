@@ -14,4 +14,4 @@ ht-degree: 0%
 
 Scopri come caricare più tag di annunci di terze parti alla volta.
 
->[!VIDEO](https://video.tv.adobe.com/v/339204)
+>[!VIDEO](https://video.tv.adobe.com/v/342175?captions=ita)
