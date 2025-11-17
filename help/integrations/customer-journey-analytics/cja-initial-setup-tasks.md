@@ -29,7 +29,7 @@ Dopo aver completato questi passaggi e aver fornito la visualizzazione dati al t
 
 ## Creare una visualizzazione dati in Analysis Workspace con le metriche da esportare
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476764?captions=ita&learn=on)
 
 >[!MORELIKETHIS]
 >
