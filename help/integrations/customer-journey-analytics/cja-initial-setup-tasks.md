@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Scopri i passaggi iniziali necessari per inviare eventi di conversione Customer Journey Analytics ad Adobe Advertising, dove puoi includerli in seguito negli obiettivi/obiettivi di ottimizzazione.
 
-Dopo aver completato questi passaggi e aver fornito la visualizzazione dati al team dell’account Adobe, puoi completare i passaggi aggiuntivi per impostare l’integrazione. Per ulteriori informazioni sui passaggi aggiuntivi, consulta la [documentazione completa](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview).
+Dopo aver completato questi passaggi e aver fornito la visualizzazione dati al team dell’account Adobe, puoi completare i passaggi aggiuntivi per impostare l’integrazione. Per ulteriori informazioni sui passaggi aggiuntivi, consulta la [documentazione completa](https://experienceleague.adobe.com/it/docs/advertising/integrations/customer-journey-analytics/overview).
 
 ## Panoramica
 
