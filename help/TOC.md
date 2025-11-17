@@ -5,10 +5,10 @@ breadcrumb-title: Tutorial su Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 65f84dafc00203be415e60f4e3aabbfba70d7fbb
+source-git-commit: 7db450a4a32002b8d4a586d4b90b65421fa5e71e
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 16%
+source-wordcount: '115'
+ht-degree: 15%
 
 ---
 
@@ -25,14 +25,15 @@ ht-degree: 16%
    + [Come caricare in blocco tag di annunci di terze parti](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [Introduzione a  [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [Creare rapporti sulle visite al sito di Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [Creare rapporti sulle visite al sito in Adobe Advertising](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [Crea [!DNL Analytics] segmenti per attivazione e reporting](/help/integrations/analytics/analytics-segments-a4adc.md)
-   + [Introduzione a [!DNL Analysis Workspace] per i dati dell&#39;Adobe Advertising di reporting](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
-   + [Utilizzo di  [!DNL Marketing Channels]  per la generazione di rapporti di Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [Crea [!DNL Analytics] profili per attivazione e reporting Adobi Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [Introduzione a [!DNL Analysis Workspace] per la generazione di rapporti sui dati di Adobe Advertising](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
+   + [Utilizzo di  [!DNL Marketing Channels]  per il reporting di Adobe Advertising](/help/integrations/analytics/analytics-reporting-a4adc.md)
+   + [Crea [!DNL Analytics] profili per attivazione e reporting di Adobe Advertising](/help/integrations/analytics/analytics-profiles-a4adc.md)
    + [Creare un’analisi pre-lancio delle campagne con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Creare dashboard di Adobe Advertising con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
-   + [Creazione di  [!DNL Analytics] metriche personalizzate con dati Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
+   + [Crea [!DNL Analytics] metriche personalizzate con dati di Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
++ [!DNL Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
