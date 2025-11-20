@@ -23,7 +23,7 @@ Dopo aver completato questi passaggi e aver fornito la visualizzazione dati al t
 
 ### Panoramica
 
->[!VIDEO](https://video.tv.adobe.com/v/3476810)
+>[!VIDEO](https://video.tv.adobe.com/v/3476831?captions=ita)
 
 ### Passaggio 1: configurare un account ubicazione in Customer Journey Analytics
 
@@ -53,7 +53,7 @@ Dopo aver completato questi passaggi e aver fornito la visualizzazione dati al t
 
 ### Passaggio 3: configurare le impostazioni di persistenza e i campi derivati per le dimensioni di Adobe Advertising
 
->[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476940?captions=ita&learn=on)
 
 >[!MORELIKETHIS]
 >
