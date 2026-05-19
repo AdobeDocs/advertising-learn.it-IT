@@ -5,9 +5,9 @@ breadcrumb-title: Tutorial su Advertising
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [Creare un’analisi pre-lancio delle campagne con Adobe Analytics](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [Creare dashboard di Adobe Advertising con Adobe Analytics](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [Crea [!DNL Analytics] metriche personalizzate con dati di Adobe Advertising](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
