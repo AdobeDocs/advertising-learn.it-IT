@@ -26,5 +26,5 @@ ht-degree: 0%
 
 Scopri come modificare le impostazioni per più posizionamenti contemporaneamente in DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/339205)
+>[!VIDEO](https://video.tv.adobe.com/v/3412410?captions=ita)
 
