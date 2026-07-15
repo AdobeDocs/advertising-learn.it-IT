@@ -26,4 +26,4 @@ ht-degree: 0%
 
 Scopri come creare un posizionamento display standard per una campagna DSP.
 
->[!VIDEO](https://video.tv.adobe.com/v/340454)
+>[!VIDEO](https://video.tv.adobe.com/v/345000?captions=ita)
