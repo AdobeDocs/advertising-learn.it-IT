@@ -1,5 +1,5 @@
 ---
-title: Struttura dell'account DSP e interfaccia utente
+title: Struttura dell’account e interfaccia utente di DSP
 description: Scopri la struttura dell’account e l’interfaccia utente di DSP.
 feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9
@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
-# Struttura dell&#39;account e interfaccia utente
+# Struttura dell’account e interfaccia utente
 
-Scopri come sono strutturati i tuoi account degli annunci di DSP, come utilizzare le visualizzazioni di gestione delle campagne e le descrizioni delle funzioni di gestione dell’audience, inventario, reporting, impostazioni e risorse.
+Scopri come sono strutturati i tuoi account degli annunci di DSP, come utilizzare le visualizzazioni di gestione delle campagne e informazioni su gestione dell’audience, gestione dell’inventario, reporting, impostazioni e tariffe amministrative e funzioni per la registrazione delle risorse.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412416?captions=ita)

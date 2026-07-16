@@ -17,22 +17,22 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
 # Tutorial su Adobe Advertising
 
-Questi tutorial video, insieme alla [documentazione di Adobe Advertising](https://experienceleague.adobe.com/it/docs/advertising), ti aiuteranno a utilizzare Adobe Advertising per ottenere approfondimenti sul cliente in modo più rapido che mai.
+Questi tutorial video, insieme alla [documentazione di Adobe Advertising](https://experienceleague.adobe.com/it/docs/advertising), spiegano come utilizzare Adobe Advertising per approfondimenti più rapidi sui clienti.
 
 Sono disponibili video su:
 
 * Advertising DSP
 
-* Integrazioni Advertising DSP e Advertising Search, Social e Commerce con altri prodotti e servizi Adobe Experience Cloud
+* Integrazioni Advertising DSP e Advertising Search, Social e Commerce con altri prodotti e servizi di Adobe Experience Cloud
 
 <!--
 See other -learn tutorials landing pages to get ideas for additional content
